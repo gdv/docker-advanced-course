@@ -17,7 +17,7 @@ A 2-day advanced course on docker.
 
 ### Day 1
 
-9.00  Presentation of the course and quick Introduction to Docker
+9.00  Presentation of the course and quick Introduction to Docker  
 10.30 Coffee break
 11.00 Interactions between containers and between a container and the host system: volumes
 and mount points
