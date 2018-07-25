@@ -9,7 +9,9 @@ Short course on docker
 ## Where
 
 Univ. Milano-Bicocca
-Lab. 711, U7 Building
+Lab. 715, U7 Building
+via Bicocca degli Arcimboldi, 8
+Milano
 
 ## What
 
@@ -31,7 +33,7 @@ and mount points
 
 9.00  Dockerizing an application (part 2).   
 10.30 Coffee break  
-11.00 configurazione di un repo con Docker / configurazione di un manager (RanchOS)  
+11.00 Managing and deploying images
 12.30 Lunch  
 13.30 Docker and singularity  
 15.00 Coffee break  
